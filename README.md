@@ -1,3 +1,3 @@
-yo sup im XPONA (Also known as donkey konga to no one)
+Jello! I'm valirous / CreatureFeature
 ------------------------------------------------------
-i code the computer make go spin spin ha
+I specialize in lua and C#! I am limbus modder as well.
