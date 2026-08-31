@@ -1,3 +1,3 @@
-Jello! I'm valirous / CreatureFeature
+Jello! I'm valirous / eviltracker
 ------------------------------------------------------
-I specialize in lua and C#! I am limbus modder as well.
+I write plugins and tui
